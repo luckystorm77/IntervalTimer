@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntervalTimer</string>
+    <string name="add_interval">Add Interval</string>
+    <string name="set_timer">set timer</string>
+    <string name="start">START</string>
+    <string name="delete">delete</string>
+    <string name="minute">分</string>
+    <string name="second">秒</string>
+</resources>
